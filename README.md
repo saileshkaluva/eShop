@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saileshkaluva)](https://github.com/saileshkaluva/github-readme-stats)
+
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
